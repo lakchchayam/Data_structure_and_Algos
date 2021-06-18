@@ -1,4 +1,9 @@
 # Data Structures and Algorithms
+
+Bubble Sort
+
+![image](https://user-images.githubusercontent.com/49754403/122521962-0d4d2080-d033-11eb-9a57-26589bad926c.png)
+
 Usage
 Data structures serve as the basis for abstract data types (ADT). The ADT defines the logical form of the data type. The data structure implements the physical form of the data type.[5]
 
