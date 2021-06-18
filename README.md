@@ -1,15 +1,19 @@
 # Data Structures and Algorithms
 
-Bubble Sort
+
+
+
+#Bubble Sort
 
 ![image](https://user-images.githubusercontent.com/49754403/122521962-0d4d2080-d033-11eb-9a57-26589bad926c.png)
 
-Hash Fuctions
+
+#Hash Fuctions
 
 ![image](https://user-images.githubusercontent.com/49754403/122522115-38d00b00-d033-11eb-95e1-7918991667f3.png)
 
 
-Magic Methods
+#Magic Methods
 
 ![image](https://user-images.githubusercontent.com/49754403/122522299-6cab3080-d033-11eb-805a-5cfb8694e64c.png)
 
